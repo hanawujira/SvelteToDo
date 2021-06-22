@@ -103,3 +103,16 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+# The features of the to-do app will be
+-add a task
+-edit a task
+-remove a task
+-reminder for a task
+-pin a task
+-color code application
+-list tasks
+-check done tasks
+-uncheck undone tasks
+-update progress for task
+
